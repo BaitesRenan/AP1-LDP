@@ -1,0 +1,15 @@
+C:\Users\MV CEL\projects\LDP\ap1\bin\Debug\net6.0\ap1.exe
+C:\Users\MV CEL\projects\LDP\ap1\bin\Debug\net6.0\ap1.deps.json
+C:\Users\MV CEL\projects\LDP\ap1\bin\Debug\net6.0\ap1.runtimeconfig.json
+C:\Users\MV CEL\projects\LDP\ap1\bin\Debug\net6.0\ap1.dll
+C:\Users\MV CEL\projects\LDP\ap1\bin\Debug\net6.0\ap1.pdb
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\ap1.csproj.AssemblyReference.cache
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\ap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\ap1.AssemblyInfoInputs.cache
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\ap1.AssemblyInfo.cs
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\ap1.csproj.CoreCompileInputs.cache
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\ap1.dll
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\refint\ap1.dll
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\ap1.pdb
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\ap1.genruntimeconfig.cache
+C:\Users\MV CEL\projects\LDP\ap1\obj\Debug\net6.0\ref\ap1.dll
